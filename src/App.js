@@ -14,6 +14,8 @@ function App() {
           Learn React
         </a>
         <p>sjdksjdskjdkdf</p>
+        <p>JDHFJHMDKJSKD</p>
+        <p>ALALALALALALLALA</p>
       </header>
     </div>
   );
